@@ -1,0 +1,17 @@
+body {
+    margin: 20px;
+    padding: 10px;
+
+    background-color: rgb(61, 61, 61);
+    color: white;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+input, label, button{
+    padding: 4px;
+    margin: 5px;
+}
